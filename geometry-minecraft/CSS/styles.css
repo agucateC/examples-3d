@@ -1,0 +1,17 @@
+body {
+	background-color: #bfd1e5;
+	color: #61443e;
+	margin: 0;
+	font-family: sans-serif;
+	overflow: hidden;
+}
+a {
+	color: #a06851;
+}
+#info {
+	position: absolute;
+	top: 0;
+	width: 100%;
+	text-align: center;
+	padding: 10px;
+}

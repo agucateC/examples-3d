@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+    background-color: #ccc;
+    color: #000;
+    overflow: hidden;
+  }
+  
+  a {
+    color: #f00;
+  }
+  
+  #info {
+    position: absolute;
+    top: 10px;
+    width: 100%;
+    text-align: center;
+    z-index: 100;
+    user-select: none;
+    pointer-events: none;
+  }
+  #info a {
+    pointer-events: all;
+  }
+  
